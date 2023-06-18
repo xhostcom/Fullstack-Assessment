@@ -81,3 +81,16 @@ smokey = Pet.create(
   favorite_food: "fish",
   favorite_toy: "feather"
 )
+
+# Create Pongo
+bongo = Pet.create(
+  name: "Pongo",
+  species: "dog",
+  age: 2,
+  color: "brown",
+  breed: "Great Dane",
+  favorite_food: "steak",
+  favorite_toy: "bone",
+  featured: true,
+  star_pet: true
+)
