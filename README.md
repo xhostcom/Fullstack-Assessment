@@ -1,4 +1,4 @@
-# HEAT Junior Fullstack (Rails) Assessment
+# HEAT Fullstack (Rails) Assessment
 
 In this assessment you are provided a landing page that is connected to a sample Rails API, both with various issues (detailed below). Your task is to solve the issues to the best of your ability. You can take as much time as you need, but we recommend completing this assessment in one go.
 
